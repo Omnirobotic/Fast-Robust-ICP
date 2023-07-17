@@ -17,11 +17,11 @@
 #ifndef ICP_H
 #define ICP_H
 #include "include/nanoflann.hpp"
-#include <AndersonAcceleration.h>
+#include "AndersonAcceleration.h"
 #include <time.h>
 #include <fstream>
 #include <algorithm>
-#include <median.h>
+#include "median.h"
 #include <iostream>
 
 #define TUPLE_SCALE	  0.95
