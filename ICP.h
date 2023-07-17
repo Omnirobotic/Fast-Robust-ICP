@@ -16,7 +16,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 #ifndef ICP_H
 #define ICP_H
-#include <nanoflann.hpp>
+#include <include/nanoflann.hpp>
 #include <AndersonAcceleration.h>
 #include <time.h>
 #include <fstream>
